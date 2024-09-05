@@ -1,5 +1,5 @@
 # English
-This folder contains all the case study projects I completed during my job search in the field of data science.
+This folder contains case studies I completed as part of my learning journey. Some of them are in portuguese.
 
 # Portuguese
-Esta pasta contém todos os projetos de estudo de caso que realizei durante o processo de busca por oportunidades de emprego na área de ciência de dados.
+Esta pasta contém estudos de caso que realizei ao longo do meu processo de aprendizado. Alguns projetos estão em inglês.
