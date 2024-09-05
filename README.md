@@ -1,9 +1,9 @@
 # English
-This repository serves as a centralized hub for a collection of courses completed on the Alura platform. Alura is a leading online learning platform that provides a wide array of high-quality courses on various subjects.
+This repository serves as a centralized hub for a collection of data science courses I've completed. Throughout these courses, I’ve focused on improving my skills and deepening my understanding of various concepts and tools in the field.
 
-The decision to use the English language in these courses was made with the goal of learning, enhancing, and understanding various terminologies used in the data field. The contents within tables and dataframes have not been altered to preserve the existing content (although modifications could have been made). Insertions or visualizations, such as titles, names, and ADDITIONAL data, are presented in English.
+The choice to use English in the documentation and projects was made to practice and become familiar with key terminology commonly used in data science. While the core contents of the tables and dataframes remain unaltered, any additional information, including titles and visualizations, is provided in English.
 
 # Portuguese
-Este repositório serve como um ponto central para uma coleção de cursos concluídos na plataforma Alura. A Alura é uma plataforma líder em ensino online que oferece uma ampla variedade de cursos de alta qualidade em diversos temas.
+Este repositório serve como um hub centralizado para uma coleção de cursos de ciência de dados que concluí. Ao longo desses cursos, foquei em aprimorar minhas habilidades e aprofundar meu entendimento sobre diversos conceitos e ferramentas da área.
 
-A escolha de utilizar a língua inglesa nestes cursos foi feita com o propósito de aprender, aprimorar e compreender diversas terminologias empregadas na área de dados. Os conteúdos dentro das tabelas e dataframes não foram modificados, visando preservar o conteúdo ali presente (apesar de ser possível realizar modificações). Inserções ou visualizações, como títulos, nomes e dados ADICIONAIS, estão em inglês.
+A escolha de utilizar o inglês na documentação e nos projetos foi feita para praticar e me familiarizar com a terminologia chave comumente usada em ciência de dados. Enquanto o conteúdo principal das tabelas e dataframes permanece inalterado, qualquer informação adicional, incluindo títulos e visualizações, está apresentada em inglês.
